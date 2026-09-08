@@ -1,0 +1,5 @@
+//==============
+//DOCUMENTATION.
+//==============
+
+1. https://www.javascripttutorial.net/es6/ (Official Documentation)
