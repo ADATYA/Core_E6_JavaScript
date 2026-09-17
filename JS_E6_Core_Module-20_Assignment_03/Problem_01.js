@@ -14,9 +14,9 @@ function studentIntroduction(student) {
 }
 
 // Input 1
-studentIntroduction({ name: "Rafi", age: 18, course: "JavaScript" });
+studentIntroduction({ name: "Ram", age: 18, course: "JavaScript" });
 // Output: "My name is Rafi. I am 18 years old. I am learning JavaScript."
 
 // Input 2
-studentIntroduction({ name: "Sadia", age: 22, course: "React" });
+studentIntroduction({ name: "Sita", age: 22, course: "React" });
 // Output: "My name is Sadia. I am 22 years old. I am learning React."
